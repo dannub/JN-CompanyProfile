@@ -1,0 +1,14 @@
+{
+  "name": "companyprofile",
+  "version": "1.0.0",
+  "description": "Ini adalah company profile Juragan Nusantara",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JN-CP"
+  ],
+  "author": "JN",
+  "license": "ISC"
+}
